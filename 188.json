@@ -1,6 +1,12 @@
 [
     {
-        "name": "Meowsy",
-        "species": "cat"
+        "link1": "Meowsy",
+        "img1": "cat",
+        "link2": "Meowsy",
+        "img2": "cat",
+        "link3": "Meowsy",
+        "img3": "cat",
+        "link4": "Meowsy",
+        "img4": "cat",
     }
 ]

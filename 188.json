@@ -1,0 +1,19 @@
+{
+  "data":
+ [
+  {
+    "id": 1,
+    "userName": "Leanne Graham",
+    "petName": "Bret",
+    "petImage": "https://cdn.shibe.online/shibes/04be82add971f2b8490b5ec2308d3426e8494ad9.jpg",
+    "isFriendly": true
+  },
+  {
+    "id": 2,
+    "userName": "Ervin Howell",
+    "petName": "Anto",
+    "petImage": "https://cdn.shibe.online/shibes/655be60d14f2a0dfb3060dae20c4aad0194b3393.jpg",
+    "isFriendly": false
+  }
+ ]
+}

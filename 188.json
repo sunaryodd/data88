@@ -1,10 +1,10 @@
 [
-  {
-    "name": "Meowsy",
-    "species" : "cat",
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-  }
+    {
+        "name": "Meowsy",
+        "species": "cat"
+    },
+    {
+        "name": "Barky",
+        "species": "dog"
+    }
 ]

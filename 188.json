@@ -2,9 +2,5 @@
     {
         "name": "Meowsy",
         "species": "cat"
-    },
-    {
-        "name": "Barky",
-        "species": "dog"
     }
 ]
